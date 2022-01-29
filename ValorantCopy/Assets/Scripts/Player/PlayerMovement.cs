@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -18,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     private float maxCameraX = 40f;
     private float minCameraX = -80f;
 
+    //Crosshairs
+    public GameObject crosshair;
     private void Awake()
     {
         cc = GetComponent<CharacterController>();
@@ -39,19 +42,23 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftShift))
         {
             moveVelocity = moveInputs * Time.deltaTime * runSpeed;
+            anim.speed = 1.5f;
         }
         else
         {
             moveVelocity = moveInputs * Time.deltaTime * speed;
+            anim.speed = 1;
         }
         //Yön tuþlarýndan herhangi biri basýlýysa koþma animasyonu çalýþýr.
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D))
         {
             anim.SetBool("Running", true);
+            crosshair.GetComponent<Animator>().SetBool("isBig", true);
         }
         else
         {
             anim.SetBool("Running", false);
+            crosshair.GetComponent<Animator>().SetBool("isBig", false);
         }
         cc.Move(moveVelocity);
     }

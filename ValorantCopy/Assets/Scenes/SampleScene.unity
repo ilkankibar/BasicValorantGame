@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_7E
       objectReference: {fileID: 0}
+    - target: {fileID: 1668545484058420, guid: f2e803525a1b9e14d9979fe774a35d4d, type: 3}
+      propertyPath: m_TagString
+      value: Wood
+      objectReference: {fileID: 0}
     - target: {fileID: 4424246767687630, guid: f2e803525a1b9e14d9979fe774a35d4d, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -346,6 +350,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_7D
       objectReference: {fileID: 0}
+    - target: {fileID: 1435101090956490, guid: 89259a8f42c263445b95c40f917f798e, type: 3}
+      propertyPath: m_TagString
+      value: Wood
+      objectReference: {fileID: 0}
     - target: {fileID: 4452258199979792, guid: 89259a8f42c263445b95c40f917f798e, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -408,6 +416,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -468,6 +480,10 @@ PrefabInstance:
     - target: {fileID: 1478835801025564, guid: ea4757a70ebfed4468cd2ba937ce980a, type: 3}
       propertyPath: m_Name
       value: Bilboard_1E
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478835801025564, guid: ea4757a70ebfed4468cd2ba937ce980a, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 4340742489877392, guid: ea4757a70ebfed4468cd2ba937ce980a, type: 3}
       propertyPath: m_RootOrder
@@ -530,6 +546,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -695,6 +715,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetsign_3E (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -769,6 +793,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -834,6 +862,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -901,6 +933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_3B (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -962,6 +998,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -1029,6 +1069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_1G (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4207876901952492, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -1095,6 +1139,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -1170,6 +1218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -1231,6 +1283,10 @@ PrefabInstance:
     - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_Name
       value: Barrel_3B (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
@@ -1294,6 +1350,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gas_Tank_1A
       objectReference: {fileID: 0}
+    - target: {fileID: 1215599239297890, guid: 3f6845443ff1c26428a90cf51e082da2, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4138284576967956, guid: 3f6845443ff1c26428a90cf51e082da2, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -1356,6 +1416,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1416,6 +1480,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -1483,6 +1551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -1544,6 +1616,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -1611,6 +1687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_1G (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4207876901952492, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -1673,6 +1753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_3B (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1734,6 +1818,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -1814,6 +1902,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_1G (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4207876901952492, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -1875,6 +1967,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -1950,6 +2046,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetsign_3E (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -2023,6 +2123,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -2196,6 +2300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5099033651495012606, guid: 55fa3330e109d974d93a4bf6ebfed017, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55fa3330e109d974d93a4bf6ebfed017, type: 3}
 --- !u!4 &495260441 stripped
@@ -2213,6 +2321,10 @@ PrefabInstance:
     - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_Name
       value: Streetlight_1C (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
@@ -2279,7 +2391,7 @@ GameObject:
   - component: {fileID: 496738223}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Stone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2372,6 +2484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -2442,6 +2558,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -2583,6 +2703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -2644,6 +2768,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_3B (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2695,6 +2823,81 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
   m_PrefabInstance: {fileID: 590194388}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &605334283
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 605334284}
+  - component: {fileID: 605334286}
+  - component: {fileID: 605334285}
+  m_Layer: 5
+  m_Name: Left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &605334284
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 605334283}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 998524302}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 30, y: 0}
+  m_SizeDelta: {x: 30, y: 7}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &605334285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 605334283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &605334286
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 605334283}
+  m_CullTransparentMesh: 1
 --- !u!1 &616046109
 GameObject:
   m_ObjectHideFlags: 0
@@ -2756,6 +2959,156 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &632692414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 632692415}
+  - component: {fileID: 632692417}
+  - component: {fileID: 632692416}
+  m_Layer: 5
+  m_Name: Right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &632692415
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632692414}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 998524302}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -30, y: 0}
+  m_SizeDelta: {x: 30, y: 7}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &632692416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632692414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &632692417
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632692414}
+  m_CullTransparentMesh: 1
+--- !u!1 &644168990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 644168991}
+  - component: {fileID: 644168993}
+  - component: {fileID: 644168992}
+  m_Layer: 5
+  m_Name: Up
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &644168991
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644168990}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 998524302}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 30}
+  m_SizeDelta: {x: 7, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &644168992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644168990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &644168993
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644168990}
+  m_CullTransparentMesh: 1
 --- !u!4 &656567865 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
@@ -2816,6 +3169,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building
       objectReference: {fileID: 0}
+    - target: {fileID: 5099033651495012606, guid: 55fa3330e109d974d93a4bf6ebfed017, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55fa3330e109d974d93a4bf6ebfed017, type: 3}
 --- !u!4 &661727547 stripped
@@ -2833,6 +3190,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -3001,6 +3362,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fire Station
       objectReference: {fileID: 0}
+    - target: {fileID: 8363527818248484803, guid: cdc0be50f730cb247a7118a0f01596bf, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 8363527818248484862, guid: cdc0be50f730cb247a7118a0f01596bf, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3062,6 +3427,10 @@ PrefabInstance:
     - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_Name
       value: Barrel_3B (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
@@ -3125,6 +3494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_3B (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3186,6 +3559,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -3261,6 +3638,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trees_6A
       objectReference: {fileID: 0}
+    - target: {fileID: 1229098199093746, guid: 9108c30404dabe24898918a21fb3f6ec, type: 3}
+      propertyPath: m_TagString
+      value: Wood
+      objectReference: {fileID: 0}
     - target: {fileID: 4268732271750166, guid: 9108c30404dabe24898918a21fb3f6ec, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3334,6 +3715,10 @@ PrefabInstance:
     - target: {fileID: 1770748592829744, guid: 2e13d51711ba7be49a2291044d249a56, type: 3}
       propertyPath: m_Name
       value: Tree_7A
+      objectReference: {fileID: 0}
+    - target: {fileID: 1770748592829744, guid: 2e13d51711ba7be49a2291044d249a56, type: 3}
+      propertyPath: m_TagString
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4332717665654868, guid: 2e13d51711ba7be49a2291044d249a56, type: 3}
       propertyPath: m_RootOrder
@@ -3510,6 +3895,9 @@ MonoBehaviour:
   ejectionPos: {fileID: 203782478}
   muzzleEffect: {fileID: 6549845762049759788, guid: 912c54c4983dced488840c6e78c1a1d1, type: 3}
   muzzleEffectPos: {fileID: 519851549}
+  metalEffect: {fileID: 1000010355441670, guid: 02a509a7fa70ed740ba4197e20c5d32d, type: 3}
+  stoneEffect: {fileID: 1000010844420130, guid: 4edabb1c0dde62743b137378c7d22980, type: 3}
+  woodEffect: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3, type: 3}
 --- !u!82 &852877106
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3617,6 +4005,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -3682,6 +4074,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -3757,6 +4153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -3819,6 +4219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -3875,6 +4279,106 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
   m_PrefabInstance: {fileID: 92175124}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &998524301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 998524302}
+  - component: {fileID: 998524305}
+  - component: {fileID: 998524304}
+  - component: {fileID: 998524303}
+  m_Layer: 5
+  m_Name: Crosshair
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &998524302
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998524301}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 605334284}
+  - {fileID: 632692415}
+  - {fileID: 644168991}
+  - {fileID: 1289806902}
+  - {fileID: 2086900715}
+  m_Father: {fileID: 1560934406}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1920, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &998524303
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998524301}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9bc2d2fd89633a4d831aea2f9e642b0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &998524304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998524301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &998524305
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998524301}
+  m_CullTransparentMesh: 1
 --- !u!1 &1040986234
 GameObject:
   m_ObjectHideFlags: 0
@@ -3952,6 +4456,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetsign_3E (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -4026,6 +4534,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -4091,6 +4603,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -4165,6 +4681,10 @@ PrefabInstance:
     - target: {fileID: 3363401157724572561, guid: 57178f725051f7a4ab9d694da8a7f03a, type: 3}
       propertyPath: m_Name
       value: House_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3363401157724572561, guid: 57178f725051f7a4ab9d694da8a7f03a, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 3363401157724572564, guid: 57178f725051f7a4ab9d694da8a7f03a, type: 3}
       propertyPath: m_RootOrder
@@ -4272,6 +4792,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building
       objectReference: {fileID: 0}
+    - target: {fileID: 8856790077123654498, guid: d1010e756480b8741bb3c4e9122d952e, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d1010e756480b8741bb3c4e9122d952e, type: 3}
 --- !u!4 &1098877986 stripped
@@ -4289,6 +4813,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -4421,6 +4949,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_6A
       objectReference: {fileID: 0}
+    - target: {fileID: 1425185178937932, guid: 82fdd33e0a72720488080e8864a1f4bf, type: 3}
+      propertyPath: m_TagString
+      value: Wood
+      objectReference: {fileID: 0}
     - target: {fileID: 4158114889616244, guid: 82fdd33e0a72720488080e8864a1f4bf, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -4472,81 +5004,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4158114889616244, guid: 82fdd33e0a72720488080e8864a1f4bf, type: 3}
   m_PrefabInstance: {fileID: 1148958946}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1186700535
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1186700536}
-  - component: {fileID: 1186700538}
-  - component: {fileID: 1186700537}
-  m_Layer: 5
-  m_Name: Crosshair
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1186700536
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1186700535}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1560934406}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1186700537
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1186700535}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5046a0013ea58514994422d3ffc49cab, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1186700538
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1186700535}
-  m_CullTransparentMesh: 1
 --- !u!1001 &1199810857
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4557,6 +5014,10 @@ PrefabInstance:
     - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_Name
       value: Barrel_1G (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4207876901952492, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_RootOrder
@@ -4620,6 +5081,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_1G
       objectReference: {fileID: 0}
+    - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4207876901952492, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -4681,6 +5146,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -4756,6 +5225,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetsign_3E (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -4830,6 +5303,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -4881,6 +5358,81 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
   m_PrefabInstance: {fileID: 1273686292}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1289806901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1289806902}
+  - component: {fileID: 1289806904}
+  - component: {fileID: 1289806903}
+  m_Layer: 5
+  m_Name: Down
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1289806902
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289806901}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 998524302}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -30}
+  m_SizeDelta: {x: 7, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1289806903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289806901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1289806904
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289806901}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1320711466
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4891,6 +5443,10 @@ PrefabInstance:
     - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_Name
       value: Streetlight_1C (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
@@ -4954,6 +5510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -5015,6 +5575,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -5090,6 +5654,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetsign_3E (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -5163,6 +5731,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -5238,6 +5810,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_3B (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -5300,6 +5876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_6B
       objectReference: {fileID: 0}
+    - target: {fileID: 1876481276407780, guid: c2d0aff228303534ebf73d11faa6fbaf, type: 3}
+      propertyPath: m_TagString
+      value: Wood
+      objectReference: {fileID: 0}
     - target: {fileID: 4730833683919146, guid: c2d0aff228303534ebf73d11faa6fbaf, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -5361,6 +5941,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -5436,6 +6020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -5501,6 +6089,10 @@ PrefabInstance:
     - target: {fileID: 3996588464044858696, guid: fc3731af38eba094790fd34dd0521e01, type: 3}
       propertyPath: m_Name
       value: House_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996588464044858696, guid: fc3731af38eba094790fd34dd0521e01, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 3996588464044858701, guid: fc3731af38eba094790fd34dd0521e01, type: 3}
       propertyPath: m_RootOrder
@@ -5568,6 +6160,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -5643,6 +6239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -5708,6 +6308,10 @@ PrefabInstance:
     - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_Name
       value: Barrel_3B
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
@@ -5789,8 +6393,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1186700536}
   - {fileID: 1971577557}
+  - {fileID: 998524302}
   m_Father: {fileID: 18020371}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5847,6 +6451,10 @@ PrefabInstance:
     - target: {fileID: 1804864812298322, guid: b5a3243d18d43d4489e81103fae5d5e1, type: 3}
       propertyPath: m_Name
       value: Tree_7C
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804864812298322, guid: b5a3243d18d43d4489e81103fae5d5e1, type: 3}
+      propertyPath: m_TagString
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4991504705637490, guid: b5a3243d18d43d4489e81103fae5d5e1, type: 3}
       propertyPath: m_RootOrder
@@ -5909,6 +6517,10 @@ PrefabInstance:
     - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_Name
       value: Streetlight_1C (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
@@ -6016,6 +6628,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: School
       objectReference: {fileID: 0}
+    - target: {fileID: 6810174282485301374, guid: 758a716d956c738488e7ea1225505687, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 758a716d956c738488e7ea1225505687, type: 3}
 --- !u!4 &1614934000 stripped
@@ -6033,6 +6649,10 @@ PrefabInstance:
     - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_Name
       value: Streetlight_1C (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
@@ -6096,6 +6716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -6157,6 +6781,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -6232,6 +6860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Streetlight_1C (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -6293,6 +6925,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -6368,6 +7004,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -6433,6 +7073,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -6508,6 +7152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gas_Tank_2A
       objectReference: {fileID: 0}
+    - target: {fileID: 1094374611595102, guid: 1923985024f6f81458e33b237f339aa8, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4103904188389590, guid: 1923985024f6f81458e33b237f339aa8, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -6552,6 +7200,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 136372734443032846, guid: 1923985024f6f81458e33b237f339aa8, type: 3}
+      propertyPath: m_Radius
+      value: 1.15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1923985024f6f81458e33b237f339aa8, type: 3}
 --- !u!4 &1780723619 stripped
@@ -6569,6 +7221,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -6649,6 +7305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road_1A (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -6715,6 +7375,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_1G (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1559464623955436, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4207876901952492, guid: fe8b0e285ec80f6408f9ac4b0060b46a, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -6776,6 +7440,10 @@ PrefabInstance:
     - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_Name
       value: Road_1A (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 489200510171849154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
+      propertyPath: m_TagString
+      value: Stone
       objectReference: {fileID: 0}
     - target: {fileID: 834242005380108154, guid: 4fa7824a621d72c419d77f7c478045eb, type: 3}
       propertyPath: m_RootOrder
@@ -6842,6 +7510,10 @@ PrefabInstance:
     - target: {fileID: 1668545484058420, guid: f2e803525a1b9e14d9979fe774a35d4d, type: 3}
       propertyPath: m_Name
       value: Tree_7E (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1668545484058420, guid: f2e803525a1b9e14d9979fe774a35d4d, type: 3}
+      propertyPath: m_TagString
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4424246767687630, guid: f2e803525a1b9e14d9979fe774a35d4d, type: 3}
       propertyPath: m_RootOrder
@@ -7006,7 +7678,7 @@ RectTransform:
   - {fileID: 1953669877}
   - {fileID: 569806486}
   m_Father: {fileID: 1560934406}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7061,6 +7733,10 @@ PrefabInstance:
     - target: {fileID: 1664475624090918, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
       propertyPath: m_Name
       value: Barrel_1F (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1664475624090918, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4274984841250312, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
       propertyPath: m_RootOrder
@@ -7124,6 +7800,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_1F (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1664475624090918, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4274984841250312, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -7185,6 +7865,10 @@ PrefabInstance:
     - target: {fileID: 1664475624090918, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
       propertyPath: m_Name
       value: Barrel_1F
+      objectReference: {fileID: 0}
+    - target: {fileID: 1664475624090918, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4274984841250312, guid: d6cda6cdccb84b3439d791e01c71339a, type: 3}
       propertyPath: m_RootOrder
@@ -7248,6 +7932,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barrel_3B (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1376557422489878, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
+      propertyPath: m_TagString
+      value: Metal
+      objectReference: {fileID: 0}
     - target: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -7299,6 +7987,81 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4996578450877688, guid: 8bd17aeaec29eb847aaeecb7c2e00d10, type: 3}
   m_PrefabInstance: {fileID: 2086616810}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2086900714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2086900715}
+  - component: {fileID: 2086900717}
+  - component: {fileID: 2086900716}
+  m_Layer: 5
+  m_Name: Center
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2086900715
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2086900714}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 998524302}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 7, y: 7}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2086900716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2086900714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &2086900717
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2086900714}
+  m_CullTransparentMesh: 1
 --- !u!1 &2126285695
 GameObject:
   m_ObjectHideFlags: 0
@@ -7347,6 +8110,10 @@ PrefabInstance:
     - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_Name
       value: Streetsign_3E (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731655883472820, guid: b6c857a625d992540a6520f3c0549972, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4964882859499106, guid: b6c857a625d992540a6520f3c0549972, type: 3}
       propertyPath: m_RootOrder
@@ -7421,6 +8188,10 @@ PrefabInstance:
     - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_Name
       value: Streetlight_1C (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059719019635558, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
+      propertyPath: m_TagString
+      value: Metal
       objectReference: {fileID: 0}
     - target: {fileID: 4120510040622602, guid: fa1171c4c28a81e40a4541222c24d8ad, type: 3}
       propertyPath: m_RootOrder
@@ -7542,6 +8313,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2796693150392458129, guid: 994a774d7d3e49246a51a431453380d6, type: 3}
+      propertyPath: crosshair
+      value: 
+      objectReference: {fileID: 998524301}
+    - target: {fileID: 2796693150392458129, guid: 994a774d7d3e49246a51a431453380d6, type: 3}
+      propertyPath: runCrosshair
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796693150392458129, guid: 994a774d7d3e49246a51a431453380d6, type: 3}
+      propertyPath: normalCrosshair
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2796693150392458135, guid: 994a774d7d3e49246a51a431453380d6, type: 3}
       propertyPath: m_Name
       value: Player
@@ -7600,7 +8383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5696436965324999596, guid: 994a774d7d3e49246a51a431453380d6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.33
+      value: 3.06
       objectReference: {fileID: 0}
     - target: {fileID: 5696436965324999596, guid: 994a774d7d3e49246a51a431453380d6, type: 3}
       propertyPath: m_LocalPosition.y

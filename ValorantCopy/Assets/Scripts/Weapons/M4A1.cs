@@ -27,6 +27,11 @@ public class M4A1 : MonoBehaviour
 
     [SerializeField] private GameObject muzzleEffect;
     [SerializeField] private GameObject muzzleEffectPos;
+
+    //Mermi izleri
+    [SerializeField] private GameObject metalEffect;
+    [SerializeField] private GameObject stoneEffect;
+    [SerializeField] private GameObject woodEffect;
     private void Awake()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -45,6 +50,7 @@ public class M4A1 : MonoBehaviour
                 Instantiate(bullet, ejectionPos.position, ejectionPos.localRotation);
                 GameObject muzzle = Instantiate(muzzleEffect, muzzleEffectPos.transform.position, muzzleEffectPos.transform.rotation);
                 muzzle.transform.SetParent(muzzleEffectPos.transform);
+                BulletTrack();
             }
         }
     }
@@ -65,6 +71,26 @@ public class M4A1 : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R))
         {
             Reload();
+        }
+    }
+    void BulletTrack()
+    {
+        //Vector3 ray = Camera.main.ViewportToScreenPoint(Vector3.forward);
+        RaycastHit hit;
+        if (Physics.Raycast(Camera.main.transform.position,transform.forward, out hit))
+        {
+            if (hit.transform.CompareTag("Stone"))
+            {
+                Instantiate(stoneEffect, hit.point, Quaternion.LookRotation(hit.normal));
+            }
+            else if (hit.transform.CompareTag("Metal"))
+            {
+                Instantiate(metalEffect, hit.point, Quaternion.LookRotation(hit.normal));
+            }
+            else if (hit.transform.CompareTag("Wood"))
+            {
+                Instantiate(woodEffect, hit.point, Quaternion.LookRotation(hit.normal));
+            }
         }
     }
     void Reload()
